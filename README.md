@@ -7,7 +7,8 @@
 pip install django==2.2
 
 ### clone the repo and `cd` into `virtual_shelf` directory
-clone 
+clone https://github.com/AllenLiuX/La-Hacks.git
+
 cd virtual shelf/virtual shelf
 
 ### run `python3 manage.py runserver` to start the server
