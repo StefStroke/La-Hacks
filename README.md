@@ -48,6 +48,8 @@ Moreover, we intend to embellish our interface and make better UI designs, such 
 
 ## How to run our website
 Install python3.7 and Django version 2.2
+
 clone the repo and `cd` into `virtual_shelf` directory
+
 run `python3 manage.py runserver` to start the server
 
