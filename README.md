@@ -2,17 +2,17 @@
 
 ## How to run our website
 
-###Install python3.7 and Django version 2.2
+### Install python3.7 and Django version 2.2
 
 pip install django==2.2
 
-###clone the repo and `cd` into `virtual_shelf` directory
+### clone the repo and `cd` into `virtual_shelf` directory
 clone 
 cd virtual shelf/virtual shelf
 
-###run `python3 manage.py runserver` to start the server
+### run `python3 manage.py runserver` to start the server
 
-###Go to http://127.0.0.1:8000/storage/storage-search/ on browser to open our front page.
+### Go to http://127.0.0.1:8000/storage/storage-search/ on browser to open our front page.
 
 ## Inspiration
 The outbreak of coronavirus (COVID-19) has significantly influenced the wellbeing of people and imposed great challenges on societies. The empty shelves at supermarkets are one of the most essential problems. People feel panic buying daily supplies; meanwhile, lots of us are frustrated after waiting for hours and finding out that the good we want just went out of stock.
